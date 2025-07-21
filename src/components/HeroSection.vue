@@ -14,7 +14,7 @@
         </p>
         <div class="space-x-6">
           <a
-            href="https://github.com/saullbrandao"
+            href="https://github.com/saullrb"
             target="_blank"
             aria-label="Github Profile"
             class="btn btn-circle btn-soft btn-secondary p-2"
@@ -36,7 +36,7 @@
             </svg>
           </a>
           <a
-            href="https://linkedin.com/in/saullbrandao"
+            href="https://linkedin.com/in/saullrb"
             target="_blank"
             aria-label="Linkedin Profile"
             class="btn btn-circle btn-soft btn-secondary p-2"

@@ -3,7 +3,7 @@ defineProps({
   project: Object,
 });
 
-const githubUrl = "https://github.com/saullbrandao/";
+const githubUrl = "https://github.com/saullrb/";
 </script>
 <template>
   <div
